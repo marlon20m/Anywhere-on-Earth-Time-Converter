@@ -1,4 +1,11 @@
 # Anywhere-on-Earth-Time-Converter
-This is the final project for Code In Place 2021. I decided to create an Anywhere on Earth Time Zone Converter using python.  
+Anywhere on Earth Time Zone can be used globally for people in all time zones around the world. Anywhere on Earth is located in the pacific ocean on Baker Island. It is useful because it is the last place on earth where the date ends. 
 
-Usage: python anywhere_on_earth_converter.py
+Anywhere on Earth(AoE) Time is UTC-1200 hours and can be used to set deadlines for school/work assignments or even set meeting with groups all around the world as a globalized agreed upon time zone!
+
+I decided to create an Anywhere on Earth Time Zone Converter using python. 
+
+With it you can see what time your assignment or meeting is set for Anywhere on Earth(AoE) Time or you can check the current time in (AoE)!
+
+### Usage: 
+In Your Terminal run: python anywhere_on_earth_converter.py
