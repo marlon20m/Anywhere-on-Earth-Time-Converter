@@ -8,4 +8,9 @@ I decided to create an Anywhere on Earth Time Zone Converter using python.
 With it you can see what time your assignment or meeting is set for Anywhere on Earth(AoE) Time or you can check the current time in (AoE)!
 
 ### Usage: 
+
 In Your Terminal run: python anywhere_on_earth_converter.py
+
+### In Action:
+
+Check this program in action on YouTube: https://www.youtube.com/watch?v=Iguq964kJdc
